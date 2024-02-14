@@ -21,7 +21,7 @@ After reviewing extensive benchmarks done by the community and also [here](https
 
 - `httprouter`
 - `fiber`
-- `fasthttp/router`
+- `fasthttp`
 
 I chose to focus on these three contenders for their well-documented performance advantages.
 
